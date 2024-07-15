@@ -1,0 +1,145 @@
+{
+    "restaurants": [
+        {
+            "id": 1,
+            "name": "La Pino'z Pizza",
+            "imgURL":  "https://img.freepik.com/free-photo/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai_188544-12347.jpg",
+            "cuisines": ["Italian, Pizzas, Fast Food, Mexican, Desserts, Beverages"],
+            "location": "Old Mahabalipuram Road OMR",
+            "rating": 3.8,
+            "restaurantStatus": "",
+            "deliveryTime": "42 MINS",
+            "CostForTwo": "₹250 FOR TWO",
+            "offerTag": "50% off | Use WELCOME50",
+            "items": [
+                {"name": "Spring Rolls","rating":3.8, "offerTag": "50% OFF USE SWIGGYIT","description":"Spring roll also known as Vegetable spring rolls are a popular appetizer from the traditional Chinese Cuisine. Made with spring vegetables .", "price": "₹150", "itemImage":"https://www.sugarsaltmagic.com/wp-content/uploads/2023/01/Chinese-Spring-Rolls-4FEAT-500x500.jpg", "category": "Rolls"},
+                {"name": "Szechuan Noodles", "price": "₹200","offerTag": "50% OFF USE SWIGGYIT","description":"These Schezwan Noodles are a favorite from the Indo-Chinese Cuisine. Al dente cooked noodles are tossed in a spicy, sweet, hot and tangy .." ,"category": "Noodles","itemImage":"https://www.nestleprofessional.in/sites/default/files/2022-05/Schezwan-Noodles_0.jpg"},
+                {"name": "Special chicken Biryani","offerTag": "50% OFF USE SWIGGYIT", "price": "₹300","description":"A traditional biryani consists of fluffy basmati rice layered over tender & succulent pieces of meat, accompanied with the mesmerizing aromas of ...","itemImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQqR9rkCAqS-faniW_IYN2tsw43maqitrFA", "category": "Non-Veg Biryani"},
+                {"name": "Special Paneer Biryani", "price": "₹300", "description":"Paneer Biryani is a delicious vegetarian layered dish of paneer, dum cooked with spices, herbs and basmati rice. Making this special dum ...","itemImage":"https://ministryofcurry.com/wp-content/uploads/2023/10/paneer-biryani_-9.jpg","category": "Veg Biryani"},
+                {"name": "Hydrebadi Chicken curry","offerTag": "50% OFF USE SWIGGYIT", "price": "₹250","description":" In this Hyderabadi chicken recipe, the chicken is cooked in a rich, spicy and aromatic gravy flavoured with garam masala, coconut and a good ...", "itemImage":"https://theyummydelights.com/wp-content/uploads/2019/07/hyderabadi-chicken-masala-9.jpg","category": "Recommended"},
+                {"name": "Special chicken Biryani", "price": "₹300", "description":" A traditional biryani consists of fluffy basmati rice layered over tender & succulent pieces of meat, accompanied with the mesmerizing aromas of ...","itemImage":"https://www.prideofindia.co/cdn/shop/articles/shutterstock_1815239114_1600x.jpg?v=1629451357","category": "Recommended"},
+                {"name": "Dum chicken Biryani","offerTag": "50% OFF USE SWIGGYIT", "price": "₹300","description":"Chicken dum biryani recipe can be prepared in two ways, kacha (kachi) Method and Pakki Method. In the Kachi method of making biriyani, the raw ...","itemImage":"https://www.yummytummyaarthi.com/wp-content/uploads/2014/12/1.-7.jpg", "category": "Recommended"},
+                {"name": "Special Prawmns Biryani", "offerTag": "50% OFF USE SWIGGYIT","price": "₹300","description":"The origins of this delectable dish can be traced back to the rich culinary traditions of the Indian subcontinent. ","itemImage":"https://www.kannammacooks.com/wp-content/uploads/prawn-biryani-eral-biriyani-recipe-1.jpg", "category": "Recommended"},
+                {"name": "Special Paneer Biryani","offerTag": "50% OFF USE SWIGGYIT", "price": "₹300", "description":"A traditional Paneer Biryani recipe is a slow cooked layered casserole of paneer cubes in a curd (yogurt) based gravy, fried onions and par-cooked rice flavored with spices, saffron or rose water. ","itemImage":"https://www.chefkunalkapur.com/wp-content/uploads/2021/10/SRG_-CKK-Shoot-18_226-scaled.jpg?v=1633580575","category": "Recommended"},
+                {"name": "Special Mushrom Biryani","offerTag": "50% OFF USE SWIGGYIT","price": "₹300", "description":"Biryani  is a mixed rice dish, mainly popular in South Asia. It is made with rice, some type of meat (chicken, goat, pork, lamb, beef, prawn, or fish) and spices.","itemImage":"https://cookingfromheart.com/wp-content/uploads/2017/05/Chettinad-Mushroom-Biryani-4.jpg","category": "Recommended"}
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Bercos-if you love chinese",
+            "imgURL":  "https://imgmedia.lbb.in/media/2019/06/5d1201205e001250908a577c_1561461024876.JPG" ,
+            "cuisines": ["Chinese, Thai, Asian, Beverages, Desserts, Oriental, Seafood, Pan-Asian"],
+            "location": "Old Mahabalipuram Road OMR",
+            "rating": 4.0,
+            "deliveryTime": "33 MINS",
+            "restaurantStatus": "Promoted",
+            "CostForTwo": "₹500 FOR TWO",
+            "offerTag": "50% off | Use WELCOME50",
+            "items": [
+                {"name": "Margherita Pizza", "price": "₹350", "description":"Pizza margherita, as the Italians call it, is a simple pizza hailing from Naples. When done right, margherita pizza features a bubbly crust, ...", "itemImage":"https://www.tasteofhome.com/wp-content/uploads/2024/03/Margherita-Pizza-_EXPS_TOHVP24_275515_MF_02_28_1.jpg","category": "Veg Pizza"},
+                {"name": "chicken Pizza", "price": "₹300", "description":"Chicken Pizza recipe with step by step pictures. This recipe is a delicious mix of Pizza base, topped with cheese, onion, garlic.","itemImage":"https://www.recipesaresimple.com/wp-content/uploads/2014/07/CHICKEN-SUPREME-PIZZA-RECIPE1.jpg","category": "Non-Veg Pizza"},
+                {"name": "Pasta Carbonara", "price": "₹250","description":"Carbonara is a pasta dish made with fatty cured pork, hard cheese, eggs, salt, and black pepper. It is typical of the Lazio region of Italy.", "itemImage":"https://www.allrecipes.com/thmb/a_0W8yk_LLCtH-VPqg2uLD9I5Pk=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg","category": "Pasta"}
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Wack Waffles & Brownies",
+            "imgURL":  "https://www.mrbreakfast.com/images/779_chocolate_brownie_waffles_1.jpg",
+            "cuisines": ["Waffle, Bakery, Desserts, Beverages"],
+            "location": "Old Mahabalipuram Road OMR",
+            "rating": 3.9,
+            "restaurantStatus": "",
+            "deliveryTime": "34 MINS",
+            "CostForTwo": "₹250 FOR TWO",
+            "offerTag": "50% off | Use WELCOME50",
+            "items": [
+                {"name": "Chicken Tikka", "price": "₹220", "itemImage":"https://www.flavorquotient.com/wp-content/uploads/2020/04/Chicken-Tikka-FQ-4-1-of-1.jpg","description":"Chicken tikka, a delicious Indian appetizer! Marinated chicken cubes (aka kebabs), threaded on skewers and grilled to perfection.","category": "Non-Veg Starters"},
+                {"name": "Chicken Tikka Masala", "price": "₹420","description":"Chicken tikka masala is a dish consisting of roasted marinated chicken chunks (chicken tikka) in a spiced sauce. ","itemImage":"https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG", "category": "Non-Veg curries"},
+                {"name": "Butter Naan", "price": "₹50", "description":"Naan is a leavened flatbread mostly cooked in a tandoor (clay oven). It is one of the most ordered flatbreads in Indian restaurants & is eaten ...","itemImage":"https://nishamadhulika.com/files/butter_naan_342398137.jpg","category": "Breads"}
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Takeout Cafe",
+            "imgURL": "https://content.jdmagicbox.com/v2/comp/bangalore/48/080p5601648/catalogue/cafe-coffee-day-lavelle-road-bangalore-coffee-shops-46o7pxo.jpg",
+            "cuisines": ["Italian-American, Fast Food, Snacks, Beverages"],
+            "location": "Old Mahabalipuram Road OMR",
+            "rating": 5.0,
+            "deliveryTime": "39 MINS",
+            "restaurantStatus": "Promoted",
+            "CostForTwo": "₹200 FOR TWO",
+            "offerTag": "50% off | Use WELCOME50",
+            "items": [
+                {"name": "Special Mutton Biryani", "price": "₹300","description":" Mutton biryani is a delicious dish made of meat, spices, herbs & yogurt. Learn to make the best at home with step by step photos.", "itemImage":"https://paattiskitchen.com/wp-content/uploads/2023/03/kmc_20230323_230721.jpg","category": "Non-Veg Biryani"},
+                {"name": "Special Veg Biryani", "price": "₹200","description":"Veg Biryani is a flavourful rice dish made with basmati rice, mixed vegetables, whole spices, freshly ginger, garlic, coriander and mint leaves.","itemImage":"https://www.indianhealthyrecipes.com/wp-content/uploads/2021/09/veg-biryani-vegetable-biryani.jpg", "category": "Veg Biryani"},
+                {"name": "Nellore Fish curry", "price": "₹250","description":" Nellore Chepala Pulusu is a popular Andhra recipe made with onions, tomatoes, pulusu masala, fish which is cooked in a fiery tamarind sauce.","itemImage":"https://myhometastes.wordpress.com/wp-content/uploads/2010/11/nell.jpg?", "category": "Non-Veg curries"}
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Healthy Bhukkad's",
+            "imgURL": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2015/12/bhukkad.jpg",
+            "cuisines": ["Fast Food, Snacks, Beverages"],
+            "location": "Old Mahabalipuram Road OMR",
+            "rating": 4.7,
+            "deliveryTime": "40 MINS",
+            "restaurantStatus": "Promoted",
+            "CostForTwo": "₹199 FOR TWO",
+            "offerTag": "50% off | Use WELCOME50",
+            "items": [
+                {"name": "Special chicken Biryani", "price": "₹400", "description":" A traditional biryani consists of fluffy basmati rice layered over tender & succulent pieces of meat, accompanied with the mesmerizing aromas of ...","itemImage":"https://c.ndtvimg.com/2020-12/uimt7tg8_biryani_625x300_30_December_20.jpg","category": "Non-Veg Biryani"},
+                {"name": "Special Paneer Biryani", "price": "₹300","description":"Paneer Biryani is a delicious vegetarian layered dish of paneer, dum cooked with spices, herbs and basmati rice. Making this special dum ...","itemImage":"https://www.indianhealthyrecipes.com/wp-content/uploads/2023/02/paneer-biryani-recipe.jpg", "category": "Veg Biryani"},
+                {"name": "Hydrebadi Mutton curry", "price": "₹250","description":"It is a mouth-watering recipe loaded with all things decadent such as tender mutton, aromatic herbs, roasted dry spices, fried onions and more.","itemImage":"https://www.licious.in/blog/wp-content/uploads/2020/12/Mutton-Masala-min.jpg", "category": "Non-Veg curries"}
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Momo Mom by Oriental Mom",
+            "imgURL": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/a5zx1hlol6hi8entzdlz",
+            "cuisines": ["Pan-Asian, Tibetan, Seafood, Chinese"],
+            "location": "Old Mahabalipuram Road OMR",
+            "rating":4.6,
+            "deliveryTime": "56 MINS",
+            "restaurantStatus": "Promoted",
+            "CostForTwo": "₹400 FOR TWO",
+            "offerTag": "50% off | Use WELCOME50",
+            "items": [
+                {"name": "Chicken Rolls", "price": "₹250","description":"Chicken Kathi Roll is a popular Indian street style wrap with a filling of marinated & grilled chicken, onions, bell peppers and a sauce.","itemImage":"https://lh4.googleusercontent.com/proxy/EG-kWc7b5gqVrXOriIpVK4ao-jNHc5WfpDzv2g0PV_yIhzAl4tAXAy_9q69f00QG-3odYcWYf2jb7keCIUv5DCp2xp16tSMiXnpn", "category": "Rolls"},
+                {"name": "Chinese Noodles", "price": "₹200","description":"Chinese noodles are generally made from either wheat flour, rice flour, or mung bean starch, with wheat noodles being more commonly produced and consumed with the ancient wooden noodles mold technology in northern China and rice noodles being more typical of southern China.","itemImage":"https://thebigmansworld.com/wp-content/uploads/2022/08/spicy-noodles-recipe.jpg", "category": "Noodles"}
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Firangi Bake",
+            "imgURL": "https://content3.jdmagicbox.com/comp/def_content_category/firangi-bake-11979521-cgceyiyt4e.jpg",
+            "cuisines": ["Italian, Mexican, Pastas, Ice Cream"],
+            "location": "Old Mahabalipuram Road OMR",
+            "rating": 4.4,
+            "deliveryTime": "38 MINS",
+            "restaurantStatus": "",
+            "CostForTwo": "₹400 FOR TWO",
+            "offerTag": "50% off | Use WELCOME50",
+            "items": [
+                {"name": "Mutton Tikka", "price": "₹350", "description":" Mutton Boti Tikka is a popular dish from the southern part of our country. It is made with mutton (goat meat) that is marinated in spices and ...","itemImage":"https://www.masala.tv/wp-content/uploads/2014/08/1-2.jpg","category": "Non-Veg Starters"},
+                {"name": "Szechuan Noodles", "price": "₹200","description":"These Schezwan Noodles are a favorite from the Indo-Chinese Cuisine. Al dente cooked noodles are tossed in a spicy, sweet, hot and tangy ...","itemImage":"https://slurrp.club/wp-content/uploads/2018/11/DSC_0516-750x590.jpg", "category": "Noodles"}
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Chillis American Grill & Bar",
+            "imgURL": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2016/05/Chilis.jpg",
+            "cuisines": ["Italian-American, Fast Food, Snacks, Beverages"],
+            "location": "Old Mahabalipuram Road OMR",
+            "rating": 4.3,
+            "deliveryTime": "46 MINS",
+            "restaurantStatus": "Promoted",
+            "CostForTwo": "₹900 FOR TWO",
+            "offerTag": "50% off | Use WELCOME50",
+            "items": [
+                {"name": "Chicken Fired Rice", "price": "₹250","description":"This chicken fried rice recipe is very easy and tasty! It's basically cooked chicken, rice, soy sauce, and shredded egg stir-fried together. ...","itemImage":"https://i.ytimg.com/vi/rcbCY26CLX4/maxresdefault.jpg", "category": "Fired Rice"},
+                {"name": "Veg Paratha", "price": "₹40", "description":"Mix veg paratha made with whole wheat flour, mixed vegetables, spices & herbs. It is a healthy & Kids' friendly breakfast recipe. These mix vegetable ...","itemImage":"https://www.indianhealthyrecipes.com/wp-content/uploads/2020/01/mix-veg-paratha.jpg","category": "Paratha"}
+                
+            ]
+        }
+    ]
+}
